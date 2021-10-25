@@ -1,6 +1,16 @@
-## Wang Kangkan
-
-An associate professor of Nanjing University Of Science And Technology，email：wangkangkan@njust.edu.cn.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Wang Kangkan</h1>
+      <p><b>associate professor</b></p>
+      <p><b>Nanjing University Of Science And Technology</b></p>
+      <p><b>email：wangkangkan@njust.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/GetPhotoFile.jfif" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ### Research Area
 
