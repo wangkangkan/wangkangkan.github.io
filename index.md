@@ -1,13 +1,14 @@
-## Welcome to Wang Kangkan Pages
+## Wang Kangkan
 
-Wangkangkan，associate professor，email：wangkangkan@njust.edu.cn.
+An associate professor of Nanjing University Of Science And Technology，email：wangkangkan@njust.edu.cn.
 
 ### Research Area
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Computer Vision,Deep Learning，3D Reconstruction,Reconstruction and Tracking of moving objects,Simultaneous Localization and Map Construction (SLAM) and so on.
 
 ```markdown
 Syntax highlighted code block
+```
 
 # Papers
 ## paper 1
@@ -22,7 +23,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
