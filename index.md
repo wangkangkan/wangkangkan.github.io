@@ -18,13 +18,15 @@ Computer Vision,Deep Learning，3D Reconstruction,Reconstruction and Tracking of
 
 ## Work Experience
 
-2017.06-now Nanjing University Of Science And Technology，Computer Science and Engineering，associate professor（PCA Lab(Key Laboratory of High-dimensional Information Intelligent Percepeption and System of the Ministry of Education)，Professor Yang Jian team）
+2017.06-now Nanjing University Of Science And Technology，Computer Science and Engineering
+            associate professor（PCA Lab，Professor Yang Jian team）
 
 2015.08-2017.06 Institute of Computing Technology, Chinese Academ，Research Assistant
 
 ## Education Experience
 
-2009.09-2015.07 Zhejiang University，Computer Science and Technology，Doctor（State Key Lab of CAD&CG，Teacher: Professor Bao Hujun）
+2009.09-2015.07 Zhejiang University，Computer Science and Technology
+                Doctor（State Key Lab of CAD&CG，Teacher: Professor Bao Hujun）
 
 2005.09-2009.07 Northwestern Polytechnical University，Computer，Bachelor 
 
