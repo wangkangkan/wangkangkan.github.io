@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Wang Kangkan</h1>
-      <p><b>associate professor</b></p>
+      <p><b>Associate Professor</b></p>
       <p><b>Nanjing University Of Science And Technology</b></p>
       <p><b>email：wangkangkan@njust.edu.cn</b></p>
     </td>
@@ -18,15 +18,15 @@ Computer Vision,Deep Learning，3D Reconstruction,Reconstruction and Tracking of
 
 ## Work Experience
 
-2017.06-至今 南京理工大学，计算机科学与工程学院，副教授（高维信息智能感知与系统教育部重点实验室，杨健教授团队）
+2017.06-now Nanjing University Of Science And Technology，Computer Science and Engineering，associate professor（PCA Lab(Key Laboratory of High-dimensional Information Intelligent Percepeption and System of the Ministry of Education)，Professor Yang Jian team）
 
-2015.08-2017.06 中国科学院计算技术研究所，助理研究员
+2015.08-2017.06 Institute of Computing Technology, Chinese Academ，Research Assistant
 
 ## Education Experience
 
-2009.09-2015.07 浙江大学，计算机科学与技术学院，博士（CAD&CG国家重点实验室，导师：鲍虎军教授）
+2009.09-2015.07 Zhejiang University，Computer Science and Technology，Doctor（State Key Lab of CAD&CG，Teacher: Professor Bao Hujun）
 
-2005.09-2009.07 西北工业大学，计算机学院，学士
+2005.09-2009.07 Northwestern Polytechnical University，Computer，Bachelor 
 
 # Papers
 ## paper 1
