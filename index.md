@@ -30,15 +30,13 @@ Computer Vision,Deep Learning，3D Reconstruction,Reconstruction and Tracking of
 
 # Papers
 
-[1]. Kangkan Wang and Huayu Zheng, and Guofeng Zhang and Jian Yang. [Parametric Model Estimation for 3D Clothed Humans from Point Clouds](https://github.com/wangkangkan/3DClothedHumans). ISMAR 2021.
+[1]. Kangkan Wang, Guofeng Zhang, Huayu Zheng, Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021. (SCI journal，IF=10.856，CCF A class)
 
-[2]. Kangkan Wang, Guofeng Zhang, Huayu Zheng, Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021. (SCI journal，IF=10.856，CCF A class)
+[2]. Kangkan Wang, Huayu Zheng, Guofeng Zhang, Jian Yang. [Parametric Model Estimation for 3D Clothed Humans from Point Clouds](https://github.com/wangkangkan/3DClothedHumans). IEEE International Symposium on Mixed and Augmented Reality 2021. (Top Conference of Augment Reality，CCF B class)
 
-[3]. Kangkan Wang, Huayu Zheng, Guofeng Zhang, Jian Yang. Parametric Model Estimation for 3D Clothed Humans from Point Clouds. IEEE International Symposium on Mixed and Augmented Reality 2021. (Top Conference of Augment Reality，CCF B class)
+[3]. Kangkan Wang, Guofeng Zhang, Jian Yang. 3D Human Pose and Shape Estimation with Dense Correspondence from a Single Depth Image. Minor revision by The Visual Computer. (SCI journal，CCF C class)
 
-[4]. Kangkan Wang, Guofeng Zhang, Jian Yang. 3D Human Pose and Shape Estimation with Dense Correspondence from a Single Depth Image. Minor revision by The Visual Computer. (SCI journal，CCF C class)
-
-[5]. Huayu Zheng, Kangkan Wang, Guofeng Zhang, Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021). 
+[4]. Huayu Zheng, Kangkan Wang, Guofeng Zhang, Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021). 
 
 [5]. Xiaoge Zhang, Kangkan Wang, Zhaoxin Li, Hao Jiang, Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021.
 
