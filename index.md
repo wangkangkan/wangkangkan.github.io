@@ -3,8 +3,8 @@
     <td width="75%">
       <h1>Wang Kangkan</h1>
       <p><b>Associate Professor</b></p>
-      <p><b>Nanjing University Of Science And Technology</b></p>
-      <p><b>email：wangkangkan@njust.edu.cn</b></p>
+      <p><b>Nanjing University of Science and Technology</b></p>
+      <p><b>Email：wangkangkan@njust.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/GetPhotoFile.jfif" width="100%">     
