@@ -18,7 +18,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 ## Work Experience
 
-2017.06-now Nanjing University Of Science And Technology，Computer Science and Engineering，associate professor（PCA Lab，Professor Yang Jian team）
+2017.06-now Associate Professor, the Key Lab of Intelligent Perception and Systems for High-Dimensional Information of Ministry of Education, School of Computer Science and Engineering, Nanjing University of Science and Technology
 
 2015.08-2017.06 Assistant Professor, the Institute of Computing Technology, Chinese Academy of Sciences
 
