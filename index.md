@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Wang Kangkan</h1>
+      <h1>Kangkan Wang</h1>
       <p><b>Associate Professor</b></p>
       <p><b>Nanjing University of Science and Technology</b></p>
       <p><b>Email：wangkangkan@njust.edu.cn</b></p>
