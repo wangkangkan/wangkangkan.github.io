@@ -12,15 +12,15 @@
   </tr>
 </table>
 
-## Research Area
+## Research Interest
 
-Computer Vision,Deep Learning，3D Reconstruction,Reconstruction and Tracking of moving objects,Simultaneous Localization and Map Construction (SLAM) and so on.
+Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motion Tracking.
 
 ## Work Experience
 
 2017.06-now Nanjing University Of Science And Technology，Computer Science and Engineering，associate professor（PCA Lab，Professor Yang Jian team）
 
-2015.08-2017.06 Institute of Computing Technology, Chinese Academ，Research Assistant
+2015.08-2017.06 Assistant Professor, the Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Education Experience
 
