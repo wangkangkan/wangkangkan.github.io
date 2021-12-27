@@ -22,11 +22,11 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 2015.08-2017.06 Assistant Professor, the Institute of Computing Technology, Chinese Academy of Sciences
 
-## Education Experience
+## Education
 
-2009.09-2015.07 Zhejiang University，Computer Science and Technology，Doctor（State Key Lab of CAD&CG，Teacher: Professor Bao Hujun）
+2009.09-2015.07 Ph.D., Computer Science and Technology State Key Lab of CAD&CG, Zhejiang University
 
-2005.09-2009.07 Northwestern Polytechnical University，Computer，Bachelor 
+2005.09-2009.07 B.S., Computer Science, Northwestern Polytechnical University
 
 # Papers
 
