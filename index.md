@@ -26,7 +26,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 2009.09-2015.07 Ph.D., the State Key Lab of CAD&CG, Zhejiang University
 
-2005.09-2009.07 B.S., Computer Science, Northwestern Polytechnical University
+2005.09-2009.07 B.S., Northwestern Polytechnical University
 
 # Papers
 
