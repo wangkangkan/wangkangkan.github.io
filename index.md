@@ -36,15 +36,15 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 [3]. **Kangkan Wang**, Guofeng Zhang, Jian Yang. 3D Human Pose and Shape Estimation with Dense Correspondence from a Single Depth Image. Minor revision by The Visual Computer.
 
-[4]. Huayu Zheng, **Kangkan Wang**, Guofeng Zhang, Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021). 
+[4]. Huayu Zheng, **Kangkan Wang**, Guofeng Zhang, Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021).
 
-[5]. Xiaoge Zhang, **Kangkan Wang**, Zhaoxin Li, Hao Jiang, Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021.
+[5]. Xiaoge Zhang, **Kangkan Wang**, Zhaoxin Li, Hao Jiang, Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021.   [pdf](https://www.sciencedirect.com/science/article/pii/S0097849321000625/pdfft?md5=7010f6a201d6b8e09c01569465da919e&pid=1-s2.0-S0097849321000625-main.pdf) 
 
-[6]. Zhaoyang Gui, Shanshan Zhang, **Kangkan Wang**, Jian Yang, Pong Chi Yuen. Adaptive Multi-domain Learning for Outdoor 3D Human Pose and Shape Estimation. ICASSP 2021.
+[6]. Zhaoyang Gui, Shanshan Zhang, **Kangkan Wang**, Jian Yang, Pong Chi Yuen. Adaptive Multi-domain Learning for Outdoor 3D Human Pose and Shape Estimation. ICASSP 2021.   [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590) 
 
-[7]. Lei Liu, **Kangkan Wang**, Jian Yang. 3D Human Pose and Shape Estimation from Depth Images. Pattern Recognition and Computer Vision 2020. 
+[7]. Lei Liu, **Kangkan Wang**, Jian Yang. 3D Human Pose and Shape Estimation from Depth Images. Pattern Recognition and Computer Vision 2020.
 
-[8]. **Kangkan Wang**, Jin Xie, Guofeng Zhang, Lei Liu, Jian Yang. Sequential 3D Human Pose and Shape Estimation from Point Clouds. IEEE Conference on Computer Vision and Pattern Recognition 2020.
+[8]. **Kangkan Wang**, Jin Xie, Guofeng Zhang, Lei Liu, Jian Yang. Sequential 3D Human Pose and Shape Estimation from Point Clouds. IEEE Conference on Computer Vision and Pattern Recognition 2020.  [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590) 
 
 [9]. **Kangkan Wang**, Guofeng Zhang, Jian Yang, and Hujun Bao. Dynamic Human Body Reconstruction and Motion Tracking with Low-cost Depth Cameras. The Visual Computer 2020.
 
