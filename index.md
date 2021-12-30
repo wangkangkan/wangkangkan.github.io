@@ -32,7 +32,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 [1]. **Kangkan Wang**, Guofeng Zhang, Huayu Zheng, Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021.
 
-[2]. **Kangkan Wang**, Huayu Zheng, Guofeng Zhang, Jian Yang. Parametric Model Estimation for 3D Clothed Humans from Point Clouds. IEEE International Symposium on Mixed and Augmented Reality 2021.[code](https://github.com/wangkangkan/3DClothedHumans)
+[2]. **Kangkan Wang**, Huayu Zheng, Guofeng Zhang, Jian Yang. Parametric Model Estimation for 3D Clothed Humans from Point Clouds. IEEE International Symposium on Mixed and Augmented Reality 2021. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583800) [code](https://github.com/wangkangkan/3DClothedHumans)
 
 [3]. **Kangkan Wang**, Guofeng Zhang, Jian Yang. 3D Human Pose and Shape Estimation with Dense Correspondence from a Single Depth Image. Minor revision by The Visual Computer.
 
