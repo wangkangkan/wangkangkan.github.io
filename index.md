@@ -36,13 +36,13 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/1.png" width="100%">     
     </td>
     <td width="75%">
-      <p><b>**Kangkan Wang**, Guofeng Zhang, Huayu Zheng and Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021.  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562270)] </b></p>
+      <p><b>**Kangkan Wang**, Guofeng Zhang, Huayu Zheng and Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021.  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562270"  target="_blank">[Paper]</a> [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562270)] </b></p>
     </td>
 
   </tr>
     <tr>
       <td width="25%">
-      <img src="/1.png" width="100%">     
+      <img src="/2.png" width="100%">     
     </td>
     <td width="75%">
       <p><b>**Kangkan Wang**, Huayu Zheng, Guofeng Zhang and Jian Yang. Parametric Model Estimation for 3D Clothed Humans from Point Clouds. IEEE International Symposium on Mixed and Augmented Reality 2021.  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583800)] [[Codes](https://github.com/wangkangkan/3DClothedHumans)] </b></p>
@@ -51,7 +51,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   </tr>
     <tr>
       <td width="25%">
-      <img src="/1.png" width="100%">     
+      <img src="/3.png" width="100%">     
     </td>
     <td width="75%">
       <p><b>**Kangkan Wang**, Guofeng Zhang and Jian Yang. 3D Human Pose and Shape Estimation with Dense Correspondence from a Single Depth Image. The Visual Computer 2021.</b></p>
