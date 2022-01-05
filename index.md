@@ -36,7 +36,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/1.png" width="100%">     
     </td>
     <td width="75%">
-      <p><b>**Kangkan Wang**, Guofeng Zhang, Huayu Zheng and Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562270"  target="_blank">Paper</a>] </b></p>
+      <p><b>Kangkan Wang </b>, Guofeng Zhang, Huayu Zheng and Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562270"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
