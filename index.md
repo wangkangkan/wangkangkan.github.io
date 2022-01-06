@@ -105,7 +105,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/8.png" width="100%">     
     </td>
     <td width="75%">
-      <p> <b>Kangkan Wang </b>, Jin Xie, Guofeng Zhang, Lei Liu and Jian Yang. Sequential 3D Human Pose and Shape Estimation from Point Clouds. IEEE Conference on Computer Vision and Pattern Recognition 2020. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590"  target="_blank">Paper</a>] </p>
+      <p> <b>Kangkan Wang </b>, Jin Xie, Guofeng Zhang, Lei Liu and Jian Yang. Sequential 3D Human Pose and Shape Estimation from Point Clouds. IEEE Conference on Computer Vision and Pattern Recognition 2020. [<a href="http://www.cad.zju.edu.cn/home/gfzhang/projects/cvpr2020_HPSE.pdf"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr> 
