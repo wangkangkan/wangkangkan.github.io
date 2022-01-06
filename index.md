@@ -53,7 +53,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   
     <tr>
       <td width="25%">
-      <img src="/3.png" width="100%">     
+      <img src="/3-1.png" width="100%">     
     </td>
     <td width="75%">
       <p><b>Kangkan Wang </b>, Guofeng Zhang and Jian Yang. 3D Human Pose and Shape Estimation with Dense Correspondence from a Single Depth Image. The Visual Computer 2021.</p>
