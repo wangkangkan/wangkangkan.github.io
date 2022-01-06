@@ -150,15 +150,3 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   </tr>
 </table>
 
-
-[7]. Lei Liu, **Kangkan Wang** and Jian Yang. 3D Human Pose and Shape Estimation from Depth Images. Pattern Recognition and Computer Vision 2020.
-
-[8]. **Kangkan Wang**, Jin Xie, Guofeng Zhang, Lei Liu and Jian Yang. Sequential 3D Human Pose and Shape Estimation from Point Clouds. IEEE Conference on Computer Vision and Pattern Recognition 2020.  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590) 
-
-[9]. **Kangkan Wang**, Guofeng Zhang, Jian Yang, and Hujun Bao. Dynamic Human Body Reconstruction and Motion Tracking with Low-cost Depth Cameras. The Visual Computer, 37: 603–618, 2020.
-
-[10]. **Kangkan Wang**, Guofeng Zhang and Shihong Xia. Templateless Non-rigid Reconstruction and Motion Tracking with a Single RGB-D Camera. IEEE Transactions on Image Processing, 26(12): 5966-5979, 2017.
-
-[11]. **Kangkan Wang**, Guofeng Zhang and Hujun Bao. Robust 3D Reconstruction with an RGB-D Camera. IEEE Transactions on Image Processing, 23(11):4893-4906, 2014.
-
-[12]. **Kangkan Wang**, Xianwang Wang, Zhigeng Pan and Kai Liu. A Two-Stage Framework for 3D Face Reconstruction from RGBD Images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 36(8):1493-1504, 2014.
