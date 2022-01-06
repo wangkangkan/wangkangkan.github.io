@@ -124,7 +124,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/10.png" width="100%">     
     </td>
     <td width="75%">
-      <p> <b>Kangkan Wang </b>, Guofeng Zhang and Shihong Xia. Templateless Non-rigid Reconstruction and Motion Tracking with a Single RGB-D Camera. IEEE Transactions on Image Processing, 26(12): 5966-5979, 2017. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590"  target="_blank">Paper</a>] </p>
+      <p> <b>Kangkan Wang </b>, Guofeng Zhang and Shihong Xia. Templateless Non-rigid Reconstruction and Motion Tracking with a Single RGB-D Camera. IEEE Transactions on Image Processing, 26(12): 5966-5979, 2017. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8011485"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
@@ -134,7 +134,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/11.png" width="100%">     
     </td>
     <td width="75%">
-      <p> <b>Kangkan Wang </b>, Guofeng Zhang and Hujun Bao. Robust 3D Reconstruction with an RGB-D Camera. IEEE Transactions on Image Processing, 23(11):4893-4906, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590"  target="_blank">Paper</a>] </p>
+      <p> <b>Kangkan Wang </b>, Guofeng Zhang and Hujun Bao. Robust 3D Reconstruction with an RGB-D Camera. IEEE Transactions on Image Processing, 23(11):4893-4906, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6891315"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
@@ -144,7 +144,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/12.png" width="100%">     
     </td>
     <td width="75%">
-      <p> <b>Kangkan Wang </b>, Xianwang Wang, Zhigeng Pan and Kai Liu. A Two-Stage Framework for 3D Face Reconstruction from RGBD Images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 36(8):1493-1504, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590"  target="_blank">Paper</a>] </p>
+      <p> <b>Kangkan Wang </b>, Xianwang Wang, Zhigeng Pan and Kai Liu. A Two-Stage Framework for 3D Face Reconstruction from RGBD Images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 36(8):1493-1504, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678516"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
