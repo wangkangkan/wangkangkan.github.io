@@ -36,7 +36,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/1.png" width="100%">     
     </td>
     <td width="75%">
-      <p><b>Kangkan Wang </b>, Guofeng Zhang, Huayu Zheng and Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562270"  target="_blank">Paper</a>] </p>
+      <p><b>Kangkan Wang </b>, Guofeng Zhang, Huayu Zheng and Jian Yang. Learning Dense Correspondences from Non-rigid Point Clouds. IEEE Transactions on Image Processing 2021.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562270"  target="_blank">Paper</a>] [<a href="https://github.com/wangkangkan/LearningDenseCorrespondences"  target="_blank">Codes</a>]</p>
     </td>
 
   </tr>
@@ -55,6 +55,17 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
     <td width="75%">
       <p><b>Kangkan Wang </b>, Guofeng Zhang and Jian Yang. 3D Human Pose and Shape Estimation with Dense Correspondence from a Single Depth Image. The Visual Computer 2021.</p>
+    </td>
+
+  </tr>
+
+  </tr>
+    <tr>
+      <td width="25%">
+      <img src="/2.png" width="100%">     
+    </td>
+    <td width="75%">
+      <p>Huayu Zheng, <b>Kangkan Wang </b>, Guofeng Zhang and Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021), 473-484.**  [<a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-87358-5.pdf "  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
