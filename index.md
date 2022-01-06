@@ -93,7 +93,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   
       <tr>
       <td width="25%">
-      <img src="/7.png" width="100%">     
+      <img src="/7.jpg" width="100%">     
     </td>
     <td width="75%">
       <p> Lei Liu, <b>Kangkan Wang </b> and Jian Yang. 3D Human Pose and Shape Estimation from Depth Images. Pattern Recognition and Computer Vision 2020, 410-421. [<a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-60633-6.pdf"  target="_blank">Paper</a>] </p>
