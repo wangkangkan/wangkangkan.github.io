@@ -40,6 +40,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
+  
     <tr>
       <td width="25%">
       <img src="/2.png" width="100%">     
@@ -49,6 +50,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
+  
     <tr>
       <td width="25%">
       <img src="/3.png" width="100%">     
@@ -59,7 +61,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
   </tr>
 
-  </tr>
     <tr>
       <td width="25%">
       <img src="/4.png" width="100%">     
@@ -80,10 +81,17 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
   </tr>
   
+      <tr>
+      <td width="25%">
+      <img src="/6.png" width="100%">     
+    </td>
+    <td width="75%">
+      <p> Zhaoyang Gui, Shanshan Zhang, <b>Kangkan Wang </b>, Jian Yang and Pong Chi Yuen. Adaptive Multi-domain Learning for Outdoor 3D Human Pose and Shape Estimation. ICASSP 2021. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590"  target="_blank">Paper</a>] </p>
+    </td>
+
+  </tr>
 </table>
 
-
-[5]. Xiaoge Zhang, **Kangkan Wang**, Zhaoxin Li, Hao Jiang and Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021.   [Paper](https://www.sciencedirect.com/science/article/pii/S0097849321000625/pdfft?md5=7010f6a201d6b8e09c01569465da919e&pid=1-s2.0-S0097849321000625-main.pdf) 
 
 [6]. Zhaoyang Gui, Shanshan Zhang, **Kangkan Wang**, Jian Yang and Pong Chi Yuen. Adaptive Multi-domain Learning for Outdoor 3D Human Pose and Shape Estimation. ICASSP 2021.   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590) 
 
