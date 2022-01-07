@@ -45,7 +45,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <td width="25%">
       <img src="/2.png" width="100%">     
     </td>
-    <td width="75%">
+    <td width="80%">
       <p><b> Kangkan Wang </b>, Huayu Zheng, Guofeng Zhang and Jian Yang. Parametric Model Estimation for 3D Clothed Humans from Point Clouds. IEEE International Symposium on Mixed and Augmented Reality 2021.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583800"  target="_blank">Paper</a>] [<a href="https://github.com/wangkangkan/3DClothedHumans"  target="_blank">Codes</a>]</p>
     </td>
 
