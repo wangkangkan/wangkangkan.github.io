@@ -26,7 +26,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 2009.09-2015.07: Ph.D., the State Key Lab of CAD&CG, Zhejiang University
 
-2005.09-2009.07: B.S., School of computer science, Northwestern Polytechnical University
+2005.09-2009.07: B.S., School of Computer Science, Northwestern Polytechnical University
 
 ## Publications
 
@@ -43,7 +43,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   
     <tr>
       <td width="25%">
-      <img src="/2.png" width="120%">     
+      <img src="/2.png" width="100%">     
     </td>
     <td width="75%">
       <p><b> Kangkan Wang </b>, Huayu Zheng, Guofeng Zhang and Jian Yang. Parametric Model Estimation for 3D Clothed Humans from Point Clouds. IEEE International Symposium on Mixed and Augmented Reality 2021.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583800"  target="_blank">Paper</a>] [<a href="https://github.com/wangkangkan/3DClothedHumans"  target="_blank">Codes</a>]</p>
