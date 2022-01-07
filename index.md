@@ -63,7 +63,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
     <tr>
       <td width="25%">
-      <img src="/4.png" width="100%">     
+      <img src="/4.png" width="90%">     
     </td>
     <td width="75%">
       <p>Huayu Zheng, <b>Kangkan Wang </b>, Guofeng Zhang and Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021), 473-484. [<a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-87358-5.pdf "  target="_blank">Paper</a>] </p>
