@@ -42,7 +42,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   </tr>
   
     <tr>
-      <td width="25%">
+      <td width="50%">
       <img src="/2.png" width="100%">     
     </td>
     <td width="75%">
