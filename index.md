@@ -76,7 +76,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/5.png" width="100%">     
     </td>
     <td width="75%">
-      <p>Xiaoge Zhang, <b>Kangkan Wang</b>, Zhaoxin Li, Hao Jiang and Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021. [<a href="https://www.sciencedirect.com/science/article/pii/S0097849321000625/pdfft?md5=7010f6a201d6b8e09c01569465da919e&pid=1-s2.0-S0097849321000625-main.pdf"  target="_blank">Paper</a>] </p>
+      <p>Xiaoge Zhang*, Zhaoxin Li,<b>Kangkan Wang</b>, Hao Jiang and Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021. [<a href="https://www.sciencedirect.com/science/article/pii/S0097849321000625/pdfft?md5=7010f6a201d6b8e09c01569465da919e&pid=1-s2.0-S0097849321000625-main.pdf"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
@@ -86,7 +86,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/6.png" width="100%">     
     </td>
     <td width="75%">
-      <p> Zhaoyang Gui, Shanshan Zhang, <b>Kangkan Wang</b>, Jian Yang and Pong Chi Yuen. Adaptive Multi-domain Learning for Outdoor 3D Human Pose and Shape Estimation. ICASSP 2021. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590"  target="_blank">Paper</a>] </p>
+      <p> Zhaoyang Gui, Shanshan Zhang*, <b>Kangkan Wang</b>, Jian Yang and Pong Chi Yuen. Adaptive Multi-domain Learning for Outdoor 3D Human Pose and Shape Estimation. ICASSP 2021. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414590"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
@@ -134,7 +134,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/11.png" width="100%">     
     </td>
     <td width="75%">
-      <p> <b>Kangkan Wang</b>, Guofeng Zhang and Hujun Bao. Robust 3D Reconstruction with an RGB-D Camera. IEEE Transactions on Image Processing, 23(11):4893-4906, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6891315"  target="_blank">Paper</a>] </p>
+      <p> <b>Kangkan Wang</b>, Guofeng Zhang* and Hujun Bao. Robust 3D Reconstruction with an RGB-D Camera. IEEE Transactions on Image Processing, 23(11):4893-4906, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6891315"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
