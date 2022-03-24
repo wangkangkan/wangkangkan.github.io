@@ -28,7 +28,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 2005.09-2009.07: B.S., School of Computer Science, Northwestern Polytechnical University
 
-## Publications ssss
+## Publications 
 
 <table border="0">
   <tr>
@@ -42,10 +42,10 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   </tr>
   
     <tr>
-      <td width="50%">
+      <td width="25%">
       <img src="/2.png" width="100%">     
     </td>
-    <td width="50%">
+    <td width="75%">
       <p><b> Kangkan Wang </b>, Huayu Zheng, Guofeng Zhang and Jian Yang. Parametric Model Estimation for 3D Clothed Humans from Point Clouds. IEEE International Symposium on Mixed and Augmented Reality 2021.  [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9583800"  target="_blank">Paper</a>] [<a href="https://github.com/wangkangkan/3DClothedHumans"  target="_blank">Codes</a>]</p>
     </td>
 
@@ -142,6 +142,16 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <tr>
       <td width="25%">
       <img src="/12.png" width="100%">     
+    </td>
+    <td width="75%">
+      <p> <b>Kangkan Wang </b>, Xianwang Wang, Zhigeng Pan and Kai Liu. A Two-Stage Framework for 3D Face Reconstruction from RGBD Images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 36(8):1493-1504, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678516"  target="_blank">Paper</a>] </p>
+    </td>
+
+  </tr>
+  
+      <tr>
+      <td width="25%">
+      <img src="/1.png" width="100%">     
     </td>
     <td width="75%">
       <p> <b>Kangkan Wang </b>, Xianwang Wang, Zhigeng Pan and Kai Liu. A Two-Stage Framework for 3D Face Reconstruction from RGBD Images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 36(8):1493-1504, 2014. [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6678516"  target="_blank">Paper</a>] </p>
