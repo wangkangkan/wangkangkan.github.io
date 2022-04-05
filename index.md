@@ -67,7 +67,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/4.png" width="90%">     
     </td>
     <td width="75%">
-      <p>Huayu Zheng,<b>Kangkan Wang*</b>, Guofeng Zhang and Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021), 473-484. [<a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-87358-5.pdf "  target="_blank">Paper</a>] </p>
+      <p>Huayu Zheng, <b>Kangkan Wang*</b>, Guofeng Zhang and Jian Yang. Unsupervised Detailed Human Shape Estimation from Multi-view Color Images. The 11th International Conference on Image and Graphics (ICIG 2021), 473-484. [<a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-87358-5.pdf "  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
@@ -77,7 +77,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/5.png" width="100%">     
     </td>
     <td width="75%">
-      <p>Xiaoge Zhang*, Zhaoxin Li,<b>Kangkan Wang</b>, Hao Jiang and Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021. [<a href="https://www.sciencedirect.com/science/article/pii/S0097849321000625/pdfft?md5=7010f6a201d6b8e09c01569465da919e&pid=1-s2.0-S0097849321000625-main.pdf"  target="_blank">Paper</a>] </p>
+      <p>Xiaoge Zhang*, Zhaoxin Li, <b>Kangkan Wang</b>, Hao Jiang and Zhaoqi Wang. High Accuracy and Geometry-Consistent Confidence Prediction Network for Multi-view Stereo. Computers & Graphics 2021. [<a href="https://www.sciencedirect.com/science/article/pii/S0097849321000625/pdfft?md5=7010f6a201d6b8e09c01569465da919e&pid=1-s2.0-S0097849321000625-main.pdf"  target="_blank">Paper</a>] </p>
     </td>
 
   </tr>
