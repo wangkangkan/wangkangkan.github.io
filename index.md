@@ -29,8 +29,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 2005.09-2009.07: B.S., School of Computer Science, Northwestern Polytechnical University
 
 ## Publications 
-
-<table border="0">
     <tr>
       <td width="25%">
       <img src="/nerfcap.png" width="100%">     
@@ -159,6 +157,4 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
   </tr>
   
-     
-</table>
 
