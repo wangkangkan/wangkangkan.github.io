@@ -32,7 +32,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 <table border="0">
     <tr>
-      <td width="20%">
+      <td width="25%">
       <img src="/nerfcap.png" width="100%">     
     </td>
     <td width="75%">
