@@ -35,7 +35,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="/nerfcap.png" width="100%">     
     </td>
     <td width="75%">
-      <p><b>Kangkan Wang</b>, Sida Peng, Xiaowei Zhou, Jian Yang, Guofeng Zhang*. NerfCap: Human Performance Capture with Dynamic Neural Radiance Fields. IEEE Transactions on Visualization and Computer Graphics 2022. </p>
+      <p><b>Kangkan Wang</b>, Sida Peng, Xiaowei Zhou, Jian Yang, Guofeng Zhang*. NerfCap: Human Performance Capture with Dynamic Neural Radiance Fields. IEEE Transactions on Visualization and Computer Graphics 2022. 
+        [<a href="http://www.cad.zju.edu.cn/home/gfzhang/papers/NerfCap/NerfCap_TVCG_2022.pdf"  target="_blank">Paper</a>] [<a href="https://github.com/wangkangkan/nerfcap"  target="_blank">Codes</a>]</p>
     </td>
     </tr>
   
