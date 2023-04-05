@@ -31,8 +31,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 ## Publications 
 <table border="0">
   <tr>
-    <td width="25%">
-      <img src="/ClothedHumanCap.png" width="100%">     
+    <td width="25%" div align=center>
+      <img src="/ClothedHumanCap.png" width="75%">     
     </td>
     <td width="75%">
       <p><b>Kangkan Wang*</b>, Guofeng Zhang, Suxu Cong, Jian Yang. Clothed Human Performance Capture with a Double-layer Neural Radiance Fields. IEEE Computer Vision and Pattern Recognition 2023. 
