@@ -30,10 +30,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 ## Publications 
 <table border="0">
-
-  </tr>
-    <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/ClothedHumanCap.png" width="100%">     
     </td>
     <td width="75%">
@@ -42,7 +40,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
         [<a href="http://www.cad.zju.edu.cn/home/gfzhang/papers/"  target="_blank">Paper</a>]         
         </p>
     </td>
-
+    
   </tr>
     <tr>
       <td width="25%">
