@@ -30,17 +30,33 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 ## Publications 
 <table border="0">
+
+  </tr>
+    <tr>
+      <td width="25%">
+      <img src="/ClothedHumanCap.png" width="100%">     
+    </td>
+    <td width="75%">
+      <p><b>Kangkan Wang*</b>, Guofeng Zhang, Suxu Cong, Jian Yang. Clothed Human Performance Capture with a Double-layer Neural Radiance Fields. Computer Vision and Pattern Recognition 2023. 
+        [<a href="https://wangkangkan.github.io/project_pages/ClothedHumanCap/index.html"  target="_blank">Project Page</a>]
+        [<a href="http://www.cad.zju.edu.cn/home/gfzhang/papers/"  target="_blank">Paper</a>]         
+        </p>
+    </td>
+
+  </tr>
     <tr>
       <td width="25%">
       <img src="/nerfcap.png" width="100%">     
     </td>
     <td width="75%">
       <p><b>Kangkan Wang</b>, Sida Peng, Xiaowei Zhou, Jian Yang, Guofeng Zhang*. NerfCap: Human Performance Capture with Dynamic Neural Radiance Fields. IEEE Transactions on Visualization and Computer Graphics 2022. 
-        [<a href="http://www.cad.zju.edu.cn/home/gfzhang/papers/NerfCap/NerfCap_TVCG_2022.pdf"  target="_blank">Paper</a>] [<a href="https://github.com/wangkangkan/nerfcap"  target="_blank">Codes</a>]</p>
+        [<a href="https://wangkangkan.github.io/project_pages/NerfCap/index.html"  target="_blank">Project Page</a>]
+        [<a href="http://www.cad.zju.edu.cn/home/gfzhang/papers/NerfCap/NerfCap_TVCG_2022.pdf"  target="_blank">Paper</a>]
+        [<a href="https://github.com/wangkangkan/nerfcap"  target="_blank">Codes</a>]</p>
     </td>
-    </tr>
-  
-  <tr>
+    
+  </tr>
+    <tr>
       <td width="25%">
       <img src="/1.png" width="100%">     
     </td>
@@ -50,7 +66,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
     <tr>
       <td width="25%">
       <img src="/2.png" width="100%">     
@@ -60,7 +75,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
     <tr>
       <td width="25%">
       <img src="/3.png" width="100%">     
@@ -70,7 +84,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-
     <tr>
       <td width="25%">
       <img src="/4.png" width="90%">     
@@ -80,7 +93,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
       <tr>
       <td width="25%">
       <img src="/5.png" width="100%">     
@@ -90,7 +102,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
       <tr>
       <td width="25%">
       <img src="/6.png" width="100%">     
@@ -100,7 +111,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
       <tr>
       <td width="25%">
       <img src="/7.jpg" width="100%">     
@@ -128,7 +138,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
       <tr>
       <td width="25%">
       <img src="/10.png" width="100%">     
@@ -138,7 +147,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
       <tr>
       <td width="25%">
       <img src="/11.png" width="100%">     
@@ -148,7 +156,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-  
       <tr>
       <td width="25%">
       <img src="/12.png" width="100%">     
