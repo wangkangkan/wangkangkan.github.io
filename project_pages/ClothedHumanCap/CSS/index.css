@@ -1,0 +1,21 @@
+.author-block{
+    width: auto;
+    font-size:1.25rem !important;
+}
+
+.block-line{
+    border-bottom: 1px solid black;
+}
+
+.abstract-block{
+    font-size:1rem !important;
+}
+
+.pipeline-block{
+    margin-bottom: 2em;
+}
+
+.description{
+    color:#5a6268;
+    font-size:0.8rem
+}
