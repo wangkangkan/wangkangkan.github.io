@@ -35,9 +35,9 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="./CloCap-GS.png" width="75%">     
     </td>
     <td width="75%">
-      <p><b>Kangkan Wang</b>, Chong Wang, Jian Yang, Guofeng Zhang. CloCap-GS: Clothed Human Performance Capture with 3D Gaussian Splatting. Submitted to IEEE Transactions on Image Processing. 
-        [<a href="https://github.com/wangkangkan/CloCap-GS"  target="_blank">Project Page</a>]
-        [<a href="#"  target="_blank">Paper</a>]         
+      <p><b>Kangkan Wang</b>, Chong Wang, Jian Yang, Guofeng Zhang*. CloCap-GS: Clothed Human Performance Capture with 3D Gaussian Splatting. Submitted to IEEE Transactions on Image Processing. 
+        [<a href="https://wangkangkan.github.io/CloCap-GS/"  target="_blank">Project Page</a>]
+        [<a href="#">Paper</a>]         
         </p>
     </td>
   </tr>
