@@ -31,7 +31,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 ## Publications 
 <table border="0">
   <tr>
-    <td width="50%" div align=center>
+    <td width="35%" div align=center>
       <img src="./CloCap-GS.png" width="75%">     
     </td>
     <td width="75%">
