@@ -32,6 +32,17 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 <table border="0">
   <tr>
     <td width="25%" div align=center>
+      <img src="./CloCap-GS.png" width="75%">     
+    </td>
+    <td width="75%">
+      <p><b>Kangkan Wang</b>, Chong Wang, Jian Yang, Guofeng Zhang. CloCap-GS: Clothed Human Performance Capture with 3D Gaussian Splatting. Submitted to IEEE Transactions on Image Processing. 
+        [<a href="https://github.com/wangkangkan/CloCap-GS"  target="_blank">Project Page</a>]
+        [<a href="#"  target="_blank">Paper</a>]         
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
       <img src="/ClothedHumanCap.png" width="75%">     
     </td>
     <td width="75%">
@@ -42,8 +53,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
     
   </tr>
-    <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/nerfcap.png" width="100%">     
     </td>
     <td width="75%">
@@ -52,10 +63,9 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
         [<a href="http://www.cad.zju.edu.cn/home/gfzhang/papers/NerfCap/NerfCap_TVCG_2022.pdf"  target="_blank">Paper</a>]
         [<a href="https://github.com/wangkangkan/nerfcap"  target="_blank">Codes</a>]</p>
     </td>
-    
   </tr>
-    <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/1.png" width="100%">     
     </td>
     <td width="75%">
@@ -64,8 +74,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-    <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/2.png" width="100%">     
     </td>
     <td width="75%">
@@ -82,8 +92,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-    <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/4.png" width="90%">     
     </td>
     <td width="75%">
@@ -91,8 +101,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/5.png" width="100%">     
     </td>
     <td width="75%">
@@ -100,8 +110,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/6.png" width="100%">     
     </td>
     <td width="75%">
@@ -109,8 +119,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/7.jpg" width="100%">     
     </td>
     <td width="75%">
@@ -118,8 +128,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/8.png" width="100%">     
     </td>
     <td width="75%">
@@ -127,8 +137,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr> 
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/9.png" width="100%">     
     </td>
     <td width="75%">
@@ -136,8 +146,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/10.png" width="100%">     
     </td>
     <td width="75%">
@@ -145,8 +155,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/11.png" width="100%">     
     </td>
     <td width="75%">
@@ -154,8 +164,8 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     </td>
 
   </tr>
-      <tr>
-      <td width="25%">
+  <tr>
+    <td width="25%">
       <img src="/12.png" width="100%">     
     </td>
     <td width="75%">
