@@ -32,6 +32,16 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 <table border="0">
   <tr>
     <td width="25%" div align=center>
+      <img src="./CSIAM2026.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p><b>Kangkan Wang</b>, Miao Zhao, Shao-Yuan Li. Reconstructing Dynamic Scenes with Topologically-Varying Neural Implicit Fields. <i>CSIAM Transactions on Applied Mathematics</i>, Vol. 7(3): 600-616, May 2026. 
+        [<a href="https://www.researchgate.net/publication/401440436" target="_blank">Paper</a>]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
       <img src="./RobustKD.png" width="110%">     
     </td>
     <td width="75%">
