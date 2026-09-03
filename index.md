@@ -31,6 +31,20 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 ## Publications 
 <table border="0">
   <tr>
+    <td width="25%" div align=center>
+      <img src="project_pages/InterGSEdit.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p>Minghao Wen, Shengjie Wu, Kangkan Wang, Dong Liang. InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior. <i>arXiv</i>, 2025. 
+        [<a href="https://arxiv.org/abs/2507.04961" target="_blank">Paper</a>]
+        [<a href="https://doi.org/10.48550/arXiv.2507.04961" target="_blank">DOI</a>]
+        <!-- 如有Project Page或Codes，取消注释并填写链接 -->
+        <!-- [<a href="链接" target="_blank">Project Page</a>] -->
+        <!--[<a href="链接" target="_blank">Codes</a>] -->
+      </p>
+    </td>
+  </tr>
+  <tr>
   <td width="25%" div align=center>
     <img src="GSH3D.png" width="110%">     
   </td>
