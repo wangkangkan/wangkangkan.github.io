@@ -32,6 +32,19 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 <table border="0">
   <tr>
     <td width="25%" div align=center>
+      <img src="./PrototypesAsAnchors.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p>Shao-Yuan Li, Yu-Xiang Zheng, Sheng-Jun Huang, Songcan Chen, Kangkan Wang. Prototypes as Anchors: Tackling Unseen Noise for online continual learning. <i>Neural Networks</i>, 2025. 
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0893608025005143" target="_blank">Paper</a>]
+        <!-- 待补充DOI -->
+        <!-- [<a href="DOI链接" target="_blank">DOI</a>] -->
+        <!-- 如有其他链接，按格式添加 -->
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
       <img src="./Neurocomputing2026.png" width="110%">     
     </td>
     <td width="75%">
