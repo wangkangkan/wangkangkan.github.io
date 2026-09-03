@@ -30,23 +30,87 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 
 ## Publications 
 <table border="0">
-  <tr>
+   <tr>
     <td width="25%" div align=center>
-      <img src="./CSIAM2026.png" width="110%">     
+      <img src="./GSH3D-Diff.png" width="110%">     
     </td>
     <td width="75%">
-      <p><b>Kangkan Wang</b>, Miao Zhao, Shao-Yuan Li. Reconstructing Dynamic Scenes with Topologically-Varying Neural Implicit Fields. <i>CSIAM Transactions on Applied Mathematics</i>, Vol. 7(3): 600-616, May 2026. 
-        [<a href="https://www.researchgate.net/publication/401440436" target="_blank">Paper</a>]
+      <p><b>Kangkan Wang</b>, Shao-Yuan Li, Guofeng Zhang*.  GSH3D-Diff: 3D Gaussian Human Generation with Conditional Latent Diffusion from Single-view Image Collections. Computational Visual Media Journal, 2026.
+        [<a href="#">Paper</a>]         
+        </p>
+    </td>
+  </tr>
+   <tr>
+    <td width="25%" div align=center>
+      <img src="./CloCap-GS.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p><b>Kangkan Wang</b>, Chong Wang, Jian Yang, and Guofeng Zhang*. CloCap-GS: Clothed Human Performance Capture with 3D Gaussian Splatting. IEEE Transactions on Image Processing, 34, 5200-5214, 2025. 
+        [<a href="https://wangkangkan.github.io/CloCap-GS/"  target="_blank">Project Page</a>]
+        [<a href="#">Paper</a>]         
+        </p>
+    </td>
+  </tr>
+   <tr>
+    <td width="25%" div align=center>
+      <img src="./InterGSEdit.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p>Minghao Wen, Shengjie Wu, Kangkan Wang*, Dong Liang*. InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior. IEEE International Conference on Computer Vision, 2025. 
+        [<a href="https://doi.org/10.48550/arXiv.2507.04961" target="_blank">Paper</a>]
+        <!-- 如有Project Page或Codes，取消注释并填写链接 -->
+        <!-- [<a href="链接" target="_blank">Project Page</a>] -->
+        <!--[<a href="链接" target="_blank">Codes</a>] -->
       </p>
     </td>
   </tr>
   <tr>
     <td width="25%" div align=center>
-      <img src="./RobustKD.png" width="110%">     
+      <img src="./HGLTR.png" width="110%">     
     </td>
     <td width="75%">
-      <p>Shao-Yuan Li, Jinpeng Zheng, Mingguang Zhang, Dong Liang, Shaofang Li, Kangkan Wang. Robust contrastive knowledge distillation for long-tailed noisy class labels. <i>Knowledge-Based Systems</i>, 2025. 
-        [<a href="https://www.sciencedirect.com/science/article/pii/S0950705125014479" target="_blank">Paper</a>]
+      <p>Jinpeng Zheng, Shao-Yuan Li*, Gan Xu, Wenhai Wan, Zijian Tao, Songcan Chen, Kangkan Wang*. HGLTR: Hierarchical Knowledge Injection for Calibrating Pre-trained Models in Long-Tail Recognition. The Fortieth AAAI Conference on Artificial Intelligence, 2026. 
+        [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/40116/44077" target="_blank">Paper</a>]
+        <!-- 如有Project Page或Codes，取消注释并填写 -->
+        <!-- [<a href="链接" target="_blank">Project Page</a>] -->
+        <!-- [<a href="链接" target="_blank">Codes</a>] -->
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
+      <img src="./OneShotHuman.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p>Shenjian Gong, Kangkan Wang*, Shanshan Zhang*, Jian Yang. One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Di?usion Model. Pattern Recognition, 2026. 
+        [<a href="https://arxiv.org/abs/2606.19718" target="_blank">Paper</a>]
+        <!-- 代码链接可在公开后启用 -->
+        <!-- [<a href="链接" target="_blank">Codes</a>] -->
+      </p>
+    </td>
+  </tr>
+  <tr>
+  <td width="25%" div align=center>
+    <img src="GSH3D.png" width="110%">     
+  </td>
+  <td width="75%">
+    <p><b>Kangkan Wang</b>, Miao Zhao, Shao-Yuan Li*. GSH3D: Efficient 3D Gaussian Human Generation from 2D Image Collections. Knowledge-Based Systems, 2026.
+      [<a href="https://doi.org/10.1016/j.knosys.2026.115565" target="_blank">Paper</a>]
+      <!-- 如果有Project Page或Codes，按下面格式添加 -->
+      <!-- [<a href="链接" target="_blank">Project Page</a>] -->
+      [<a href="https://github.com/wangkangkan/GSH3D" target="_blank">Codes</a>]
+    </p>
+  </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
+      <img src="./Neurocomputing2026.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p><b>Kangkan Wang</b>, Kejie Wei, Shao-Yuan Li. Dynamic view synthesis with topologically-varying neural radiance fields from sparse input views. <i>Neurocomputing</i>, Volume 674, 132942, 2026. 
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0925231226003395" target="_blank">Paper</a>]
+        <!-- 如果有arXiv、Project Page或Codes，按格式添加 -->
+        <!-- [<a href="arXiv链接" target="_blank">arXiv</a>] -->
       </p>
     </td>
   </tr>
@@ -63,78 +127,24 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       </p>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td width="25%" div align=center>
-      <img src="./Neurocomputing2026.png" width="110%">     
+      <img src="./RobustKD.png" width="110%">     
     </td>
     <td width="75%">
-      <p><b>Kangkan Wang</b>, Kejie Wei, Shao-Yuan Li. Dynamic view synthesis with topologically-varying neural radiance fields from sparse input views. <i>Neurocomputing</i>, Volume 674, 132942, 2026. 
-        [<a href="https://www.sciencedirect.com/science/article/pii/S0925231226003395" target="_blank">Paper</a>]
-        <!-- 如果有arXiv、Project Page或Codes，按格式添加 -->
-        <!-- [<a href="arXiv链接" target="_blank">arXiv</a>] -->
+      <p>Shao-Yuan Li, Jinpeng Zheng, Mingguang Zhang, Dong Liang, Shaofang Li, Kangkan Wang. Robust contrastive knowledge distillation for long-tailed noisy class labels. <i>Knowledge-Based Systems</i>, 2025. 
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0950705125014479" target="_blank">Paper</a>]
       </p>
     </td>
   </tr>
   <tr>
     <td width="25%" div align=center>
-      <img src="./OneShotHuman.png" width="110%">     
+      <img src="./CSIAM2026.png" width="110%">     
     </td>
     <td width="75%">
-      <p>Shenjian Gong, Kangkan Wang, Shanshan Zhang, Jian Yang. One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Diffusion Model. <i>arXiv</i>, 2026. 
-        [<a href="https://arxiv.org/abs/2606.19718" target="_blank">Paper</a>]
-        <!-- 代码链接可在公开后启用 -->
-        <!-- [<a href="链接" target="_blank">Codes</a>] -->
+      <p><b>Kangkan Wang</b>, Miao Zhao, Shao-Yuan Li. Reconstructing Dynamic Scenes with Topologically-Varying Neural Implicit Fields. <i>CSIAM Transactions on Applied Mathematics</i>, Vol. 7(3): 600-616, May 2026. 
+        [<a href="https://www.researchgate.net/publication/401440436" target="_blank">Paper</a>]
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" div align=center>
-      <img src="./HGTR.png" width="110%">     
-    </td>
-    <td width="75%">
-      <p>Jinpeng Zheng, Shao-Yuan Li, Gan Xu, Wenhai Wan, Zijian Tao, Songcan Chen, Kangkan Wang. HGTR: Hierarchical Knowledge Injection for Calibrating Pre-trained Models in Long-Tail Recognition. <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence</i> (AAAI), 2026. 
-        [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/40116/44077" target="_blank">Paper</a>]
-        <!-- 如有Project Page或Codes，取消注释并填写 -->
-        <!-- [<a href="链接" target="_blank">Project Page</a>] -->
-        <!-- [<a href="链接" target="_blank">Codes</a>] -->
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" div align=center>
-      <img src="./InterGSEdit.png" width="110%">     
-    </td>
-    <td width="75%">
-      <p>Minghao Wen, Shengjie Wu, Kangkan Wang, Dong Liang. InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior. <i>arXiv</i>, 2025. 
-        [<a href="https://doi.org/10.48550/arXiv.2507.04961" target="_blank">Paper</a>]
-        <!-- 如有Project Page或Codes，取消注释并填写链接 -->
-        <!-- [<a href="链接" target="_blank">Project Page</a>] -->
-        <!--[<a href="链接" target="_blank">Codes</a>] -->
-      </p>
-    </td>
-  </tr>
-  <tr>
-  <td width="25%" div align=center>
-    <img src="GSH3D.png" width="110%">     
-  </td>
-  <td width="75%">
-    <p><b>Kangkan Wang</b>, Miao Zhao, Shao-Yuan Li. GSH3D: Efficient 3D Gaussian human generation from 2D image collections. <i>Knowledge-Based Systems</i>, 2026. 
-      [<a href="https://doi.org/10.1016/j.knosys.2026.115565" target="_blank">Paper</a>]
-      <!-- 如果有Project Page或Codes，按下面格式添加 -->
-      <!-- [<a href="链接" target="_blank">Project Page</a>] -->
-      [<a href="https://github.com/wangkangkan/GSH3D" target="_blank">Codes</a>]
-    </p>
-  </td>
-  </tr>
-  <tr>
-    <td width="25%" div align=center>
-      <img src="./CloCap-GS.png" width="110%">     
-    </td>
-    <td width="75%">
-      <p><b>Kangkan Wang</b>, Chong Wang, Jian Yang, Guofeng Zhang*. CloCap-GS: Clothed Human Performance Capture with 3D Gaussian Splatting. Submitted to IEEE Transactions on Image Processing. 
-        [<a href="https://wangkangkan.github.io/CloCap-GS/"  target="_blank">Project Page</a>]
-        [<a href="#">Paper</a>]         
-        </p>
     </td>
   </tr>
   <tr>
