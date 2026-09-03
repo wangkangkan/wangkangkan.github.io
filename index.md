@@ -56,7 +56,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="./InterGSEdit.png" width="110%">     
     </td>
     <td width="75%">
-      <p>Minghao Wen, Shengjie Wu, Kangkan Wang*, Dong Liang*. InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior. IEEE International Conference on Computer Vision, 2025. 
+      <p>Minghao Wen, Shengjie Wu, <b>Kangkan Wang</b>*, Dong Liang*. InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior. IEEE International Conference on Computer Vision, 2025. 
         [<a href="https://doi.org/10.48550/arXiv.2507.04961" target="_blank">Paper</a>]
         <!-- 如有Project Page或Codes，取消注释并填写链接 -->
         <!-- [<a href="链接" target="_blank">Project Page</a>] -->
@@ -69,7 +69,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="./HGLTR.png" width="110%">     
     </td>
     <td width="75%">
-      <p>Jinpeng Zheng, Shao-Yuan Li*, Gan Xu, Wenhai Wan, Zijian Tao, Songcan Chen, Kangkan Wang*. HGLTR: Hierarchical Knowledge Injection for Calibrating Pre-trained Models in Long-Tail Recognition. The Fortieth AAAI Conference on Artificial Intelligence, 2026. 
+      <p>Jinpeng Zheng, Shao-Yuan Li*, Gan Xu, Wenhai Wan, Zijian Tao, Songcan Chen, <b>Kangkan Wang</b>*. HGLTR: Hierarchical Knowledge Injection for Calibrating Pre-trained Models in Long-Tail Recognition. The Fortieth AAAI Conference on Artificial Intelligence, 2026. 
         [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/40116/44077" target="_blank">Paper</a>]
         <!-- 如有Project Page或Codes，取消注释并填写 -->
         <!-- [<a href="链接" target="_blank">Project Page</a>] -->
@@ -82,7 +82,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="./OneShotHuman.png" width="110%">     
     </td>
     <td width="75%">
-      <p>Shenjian Gong, Kangkan Wang*, Shanshan Zhang*, Jian Yang. One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Di?usion Model. Pattern Recognition, 2026. 
+      <p>Shenjian Gong, <b>Kangkan Wang</b>*, Shanshan Zhang*, Jian Yang. One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Di?usion Model. Pattern Recognition, 2026. 
         [<a href="https://arxiv.org/abs/2606.19718" target="_blank">Paper</a>]
         <!-- 代码链接可在公开后启用 -->
         <!-- [<a href="链接" target="_blank">Codes</a>] -->
@@ -119,7 +119,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="./PrototypesAsAnchors.png" width="110%">     
     </td>
     <td width="75%">
-      <p>Shao-Yuan Li, Yu-Xiang Zheng, Sheng-Jun Huang, Songcan Chen, Kangkan Wang. Prototypes as Anchors: Tackling Unseen Noise for online continual learning. <i>Neural Networks</i>, 2025. 
+      <p>Shao-Yuan Li, Yu-Xiang Zheng, Sheng-Jun Huang, Songcan Chen, <b>Kangkan Wang</b>. Prototypes as Anchors: Tackling Unseen Noise for online continual learning. <i>Neural Networks</i>, 2025. 
         [<a href="https://www.sciencedirect.com/science/article/pii/S0893608025005143" target="_blank">Paper</a>]
         <!-- 待补充DOI -->
         <!-- [<a href="DOI链接" target="_blank">DOI</a>] -->
@@ -132,7 +132,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="./RobustKD.png" width="110%">     
     </td>
     <td width="75%">
-      <p>Shao-Yuan Li, Jinpeng Zheng, Mingguang Zhang, Dong Liang, Shaofang Li, Kangkan Wang. Robust contrastive knowledge distillation for long-tailed noisy class labels. <i>Knowledge-Based Systems</i>, 2025. 
+      <p>Shao-Yuan Li, Jinpeng Zheng, Mingguang Zhang, Dong Liang, Shaofang Li, <b>Kangkan Wang</b>. Robust contrastive knowledge distillation for long-tailed noisy class labels. <i>Knowledge-Based Systems</i>, 2025. 
         [<a href="https://www.sciencedirect.com/science/article/pii/S0950705125014479" target="_blank">Paper</a>]
       </p>
     </td>
