@@ -32,7 +32,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 <table border="0">
   <tr>
     <td width="25%" div align=center>
-      <img src="project_pages/HGTR.png" width="110%">     
+      <img src="./HGTR.png" width="110%">     
     </td>
     <td width="75%">
       <p>Jinpeng Zheng, Shao-Yuan Li, Gan Xu, Wenhai Wan, Zijian Tao, Songcan Chen, Kangkan Wang. HGTR: Hierarchical Knowledge Injection for Calibrating Pre-trained Models in Long-Tail Recognition. <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence</i> (AAAI), 2026. 
