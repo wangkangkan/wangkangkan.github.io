@@ -32,6 +32,16 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 <table border="0">
   <tr>
     <td width="25%" div align=center>
+      <img src="./RobustKD.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p>Shao-Yuan Li, Jinpeng Zheng, Mingguang Zhang, Dong Liang, Shaofang Li, Kangkan Wang. Robust contrastive knowledge distillation for long-tailed noisy class labels. <i>Knowledge-Based Systems</i>, 2025. 
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0950705125014479" target="_blank">Paper</a>]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
       <img src="./PrototypesAsAnchors.png" width="110%">     
     </td>
     <td width="75%">
