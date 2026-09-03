@@ -39,7 +39,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       [<a href="https://doi.org/10.1016/j.knosys.2026.115565" target="_blank">Paper</a>]
       <!-- 如果有Project Page或Codes，按下面格式添加 -->
       <!-- [<a href="链接" target="_blank">Project Page</a>] -->
-      <!-- [<a href="链接" target="_blank">Codes</a>] -->
+      [<a href="https://github.com/wangkangkan/GSH3D" target="_blank">Codes</a>]
     </p>
   </td>
   </tr>
