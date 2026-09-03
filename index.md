@@ -32,6 +32,18 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 <table border="0">
   <tr>
     <td width="25%" div align=center>
+      <img src="./OneShotHuman.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p>Shenjian Gong, Kangkan Wang, Shanshan Zhang, Jian Yang. One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Diffusion Model. <i>arXiv</i>, 2026. 
+        [<a href="https://arxiv.org/abs/2606.19718" target="_blank">Paper</a>]
+        <!-- 代码链接可在公开后启用 -->
+        <!-- [<a href="链接" target="_blank">Codes</a>] -->
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
       <img src="./HGTR.png" width="110%">     
     </td>
     <td width="75%">
