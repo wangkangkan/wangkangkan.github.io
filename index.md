@@ -32,6 +32,18 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
 <table border="0">
   <tr>
     <td width="25%" div align=center>
+      <img src="./Neurocomputing2026.png" width="110%">     
+    </td>
+    <td width="75%">
+      <p><b>Kangkan Wang</b>, Kejie Wei, Shao-Yuan Li. Dynamic view synthesis with topologically-varying neural radiance fields from sparse input views. <i>Neurocomputing</i>, Volume 674, 132942, 2026. 
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0925231226003395" target="_blank">Paper</a>]
+        <!-- 如果有arXiv、Project Page或Codes，按格式添加 -->
+        <!-- [<a href="arXiv链接" target="_blank">arXiv</a>] -->
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" div align=center>
       <img src="./OneShotHuman.png" width="110%">     
     </td>
     <td width="75%">
@@ -49,7 +61,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
     <td width="75%">
       <p>Jinpeng Zheng, Shao-Yuan Li, Gan Xu, Wenhai Wan, Zijian Tao, Songcan Chen, Kangkan Wang. HGTR: Hierarchical Knowledge Injection for Calibrating Pre-trained Models in Long-Tail Recognition. <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence</i> (AAAI), 2026. 
         [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/40116/44077" target="_blank">Paper</a>]
-        [<a href="https://doi.org/10.1609/aaai.v40i34.40116" target="_blank">Paper</a>]
         <!-- 如有Project Page或Codes，取消注释并填写 -->
         <!-- [<a href="链接" target="_blank">Project Page</a>] -->
         <!-- [<a href="链接" target="_blank">Codes</a>] -->
