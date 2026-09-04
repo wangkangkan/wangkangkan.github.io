@@ -95,9 +95,6 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
   <td width="75%">
     <p><b>Kangkan Wang</b>, Miao Zhao, Shao-Yuan Li*. GSH3D: Efficient 3D Gaussian Human Generation from 2D Image Collections. Knowledge-Based Systems, 2026.
       [<a href="https://doi.org/10.1016/j.knosys.2026.115565" target="_blank">Paper</a>]
-      <!-- 如果有Project Page或Codes，按下面格式添加 -->
-      <!-- [<a href="链接" target="_blank">Project Page</a>] -->
-      [<a href="https://github.com/wangkangkan/GSH3D" target="_blank">Codes</a>]
     </p>
   </td>
   </tr>
