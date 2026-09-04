@@ -35,8 +35,7 @@ Human Body Reconstruction, 3D Reconstruction, Non-rigid Reconstruction and Motio
       <img src="./GSH3D-Diff.png" width="110%">     
     </td>
     <td width="75%">
-      <p><b>Kangkan Wang</b>, Shao-Yuan Li, Guofeng Zhang*.  GSH3D-Diff: 3D Gaussian Human Generation with Conditional Latent Diffusion from Single-view Image Collections. Computational Visual Media Journal, 2026.
-        [<a href="#">Paper</a>]         
+      <p><b>Kangkan Wang</b>, Shao-Yuan Li, Guofeng Zhang*.  GSH3D-Diff: 3D Gaussian Human Generation with Conditional Latent Diffusion from Single-view Image Collections. Computational Visual Media Journal, 2026.       
         </p>
     </td>
   </tr>
